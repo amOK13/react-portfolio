@@ -1,0 +1,223 @@
+{
+  "basics": {
+    "name": "Menoudé Hountondji",
+    "label": "Sofware Engineer",
+    "picture": "images/menoudeh.webp",
+    "x_pictureFallback": "images/menoude.jpg",
+    "x_title": "Menoudé Hountondji",
+    "summary": "Développeur depuis 10 ans. De Full-Stack à DevOps j'explore le monde numérique tout en peaufinant mes skillz.",
+    "location": {
+      "country": "FRANCE",
+      "countryCode": "FR",
+      "region": "Paris"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AmokSR",
+        "url": "https://twitter.com/AmokSR",
+        "x_icon":"fab fa-2x fa-twitter"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "menoude-hountondji-b0ba7a98",
+        "url": "https://www.linkedin.com/in/menoude-hountondji-b0ba7a98",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "amOK13",
+        "url": "https://github.com/amOK13",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Kering Technologies (Consultant Lab5com)",
+      "position": "Développeur Full-Stack",
+      "website": "https://www.kering.com/en/",
+      "startDate": "2019-02-15",
+      "endDate": "",
+      "summary": "Développement de micro-services au sein d'une nouvelle architecture AWS.",
+      "highlights": []
+    },
+    {
+      "company": "Acoss (Agence centrale des organismes de sécurité sociale)",
+      "position": "Développeur Full-Stack",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2019-08-30",
+      "summary": "Lead Développeur. Réalisation d'une plateforme de gestion de tickets en interne pour les développeurs de l’Acoss (projet GLD).",
+      "highlights": []
+    },
+    {
+      "company": "Safe Solutions ICT (Consultant SopraSteria)",
+      "position": "Développeur Full-Stack",
+      "website": "",
+      "startDate": "2017-08-16",
+      "endDate": "",
+      "summary": "Développeur au sein de l'équipe MpayOK, une solution de porte-monnaie électronique.",
+      "highlights": []
+    },
+    {
+      "company": "Sparkup (Aujourd'hui Nimley)",
+      "position": "Développeur Full-Stack",
+      "website": "https://www.nimley.com/",
+      "startDate": "2015-03-01",
+      "endDate": "",
+      "summary": "Première expérience en startup, Amélioration de l’expérience utilisateur et ajout de nouvelles fonctionnalités",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPITECH - European Institute of Technology",
+      "area": "IT",
+      "studyType": "Master's degree",
+      "startDate": "2011-01-01",
+      "endDate": "2015-06-30",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Containers",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Javascript",
+      "level": "Advanced",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "Php",
+      "level": "Basic",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "NestJS",
+      "level": "Intermediate",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "ReactJS",
+      "level": "Basic",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Advanced",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photo Lover",
+      "x_icon": "fa-camera"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Social Thinker",
+      "x_icon": "fa-brain"
+    },
+    {
+      "name": "Globe Trotter",
+      "x_icon": "fa-globe-africa"
+    }
+  ]
+}
