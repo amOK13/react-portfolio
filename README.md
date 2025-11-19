@@ -1,4 +1,4 @@
-# amokmadskillz Personal website
+# Personal website
 
 This is my personal website built using ReactJS and Bulma as the CSS framework. [Live here](https://menoudeh90.netlify.com)
 
